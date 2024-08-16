@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eai mano, me manda uma foto bebendo água, pra eu ter certeza que tu tá hidratado</h1>
+    return <h3>Eai! Manda uma foto dando joinha :)</h3>
 }
 
 export default Home;
